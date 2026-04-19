@@ -4,7 +4,7 @@
    
    저는 주 언어로 C/C++, 보조 언어로 Python을 사용하려고 공부 중입니다. 
    
-   ROS와 OpenCV, Linux는 조금씩 사용해보고 있습니다.
+   ROS, OpenCV, Linux는 조금씩 사용해보고 있습니다.
    
    C#, kotlin, java는 학부 때 짧게 경험했습니다.
 
