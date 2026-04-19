@@ -6,7 +6,7 @@
    
    ROS, OpenCV, Linux는 조금씩 사용해보고 있습니다.
    
-   C#, kotlin, java, Matlab는 학부 때 짧게 경험했습니다.
+   C#, kotlin, java, MATLAB는 학부 때 짧게 경험했습니다.
 
    현재는 컴퓨터비전, 빅데이터, 인공지능 분야를 메인으로 학습 중입니다.
 </p>
