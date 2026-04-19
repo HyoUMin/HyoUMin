@@ -8,14 +8,17 @@
 
 <h2>기술 스택</h2>
 <p>
-    <img src="https://img.shields.io/badge/Python-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/C-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/C++-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/C#-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Kotlin-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/ROS-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Linux-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Github-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/>&nbsp
+    <img src=" https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%23&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp
+   
 </p>
 
 <h2>주 프로젝트</h2>
