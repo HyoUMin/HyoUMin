@@ -1,9 +1,6 @@
 <h1>안녕하세요. 유효민입니다.</h1>
 <p>
-   전자공학과 출신으로 비전 분야 엔지니어로 성장하고자 노력하고 있습니다.
-   학과 프로젝트와 AI빅데이터전문가 양성과정을 통해 데이터, AI를 전문적으로 배우고 있습니다.
-   비전 기술을 활용하여 엣지디바이스 및 로봇 제어 성능 개선 기여하고자 합니다.
-
+   전자공학과 출신으로 비전 엔지니어로 성장하고자 노력하고 있습니다.
 </p>
 
 <h2>기술 스택</h2>
@@ -13,7 +10,7 @@
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/>&nbsp
     <img src=" https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>&nbsp 
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp
 </p>
 
 <h2>경험해본 기술 스택</h2>
