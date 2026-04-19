@@ -12,14 +12,18 @@
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/>&nbsp
-    <img src=" https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>&nbsp
+    <img src=" https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>&nbsp 
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp
+</p>
+
+<h2>경험해본 기술 스택</h2>
+<p>
     <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%23&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp
-   
 </p>
+
 
 <h2>주 프로젝트</h2>
 <ul style="list-style: none; padding: 0;">
@@ -27,6 +31,7 @@
     <li><a href="https://github.com/HyoUMin/DOFBOT"> 텀프로젝트: DOFBOT 객체인식분류 시스템</a></li>
     <li><a href="https://github.com/HyoUMin/object_detect_RaspberryPI">캡스톤 디자인: AI스마트분리수거 시스템</a></li>
 </ul>
+
 
 <h2>전자공학과 과제</h2>
 <ul style="list-style: none; padding: 0;">
